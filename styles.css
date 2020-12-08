@@ -4,6 +4,10 @@ body {
     background-color: gray;
 }
 
+h2 {
+    text-align: center;
+}
+
 .main {
     background-color: blue;
     min-height: 500px;
