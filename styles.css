@@ -1,11 +1,11 @@
 /*CSS Document*/
 
 body {
-    background-color: silver;
+    background-color: gray;
 }
 
 .main {
-    background-color: forestgreen;
+    background-color: blue;
     min-height: 500px;
     margin: 0px;
     padding: 0px;
